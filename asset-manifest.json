@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eliallen42/bank-account/static/css/main.fc5c2c69.css",
+    "main.js": "/eliallen42/bank-account/static/js/main.a2fe9fd7.js",
+    "index.html": "/eliallen42/bank-account/index.html",
+    "main.fc5c2c69.css.map": "/eliallen42/bank-account/static/css/main.fc5c2c69.css.map",
+    "main.a2fe9fd7.js.map": "/eliallen42/bank-account/static/js/main.a2fe9fd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.a2fe9fd7.js"
+  ]
+}
